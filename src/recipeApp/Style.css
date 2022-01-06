@@ -1,0 +1,14 @@
+h1.header {
+    background: cornflowerblue;
+    height: 60px;
+}
+.details {
+    width: 700px;
+}
+.list {
+    width: 700px;
+    margin: 30px;
+}
+button.btn.btn-primary {
+    margin: 20px;
+}
